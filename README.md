@@ -1,4 +1,4 @@
-"# RepositorioAriel-TesteContinuo-Selenium"
+# RepositorioAriel-TesteContinuo-Selenium
 
 Teste para a Apresentação do Teste Continuo.
 
